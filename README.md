@@ -9,24 +9,23 @@ Pyber, a ride-sharing app company, is tyring to improve access to ride-sharing s
 
 ---
 ## Results 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+There are many differences in ride-sharing data among the different city types. The multi-line chart below shows the total fares by city type. This chart reveals the trend of urban, suburban, and rural lines running parallel to one another with urban cities outearning suburban cities by approximately $1,000 and subruban cities outearning rural cities by approximately $1,000. Thus, there is about a $2,000 gap between the highest earner (urban cities) and the lowest one (rural cities). 
 
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
+
+Predictably, urban cities account for a greatest number of riders, number of drivers, and total fare. Suburban cities account for the second most and rural cities account for the lowest across the three categories. However, these trends are reversed when comparing average fare per rider and average fare per driver by city type. These results are shown in the table below. 
+
+**Average Fare Per Rider**
+* The differene between rural (highest) and suburban (lowest) cities is $10.09
+* The average rural driver rider pays about 1.4 times the amount of an urban rider 
+
+**Average Fare Per Driver**
+* The differene between rural (highest) and suburban (lowest) cities is $38.92
+* The average rural driver earns more than 3 times the amount of an urban driver per ride 
+  * If an urban driver completes 3 rides, they would earn less than a rural driver who completes 1 
+
 ![PyBer_summary_table](analysis/PyBer_summary_table.png)
-
-
-Based on the line graph above, I had the following takeways about theather campaigns:
-* May, June, and July respectively had the highest number of successful campaigns. 
-* October and May respectively had the highest number of failed campaigns.
-* December had about as many successful campaigns as failed ones.
-* In every month there were more successful than failed campagins. Generally, the successful and failed trend lines create the same shape and are similar to each other with the exception of May, October, and December. In May, the larger than average gap between successful and failed campaigns suggests a better chance for success. In October, the smaller than average gap between successful and failed campaigns suggests a better chance for failure. 
-
-
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
-
-
 
 ---
 ## Summary 
