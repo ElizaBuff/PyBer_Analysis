@@ -14,6 +14,9 @@ There is a description of the differences in ride-sharing data among the differe
 
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
+![PyBer_summary_table](analysis/PyBer_summary_table.png)
+
+
 Based on the line graph above, I had the following takeways about theather campaigns:
 * May, June, and July respectively had the highest number of successful campaigns. 
 * October and May respectively had the highest number of failed campaigns.
