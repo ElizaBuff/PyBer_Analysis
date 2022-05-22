@@ -12,7 +12,7 @@ Pyber, a ride-sharing app company, is tyring to improve access to ride-sharing s
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
-![PyBer_fare_summary](.../analysis/PyBer_fare_summary.png)
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
 Based on the line graph above, I had the following takeways about theather campaigns:
 * May, June, and July respectively had the highest number of successful campaigns. 
