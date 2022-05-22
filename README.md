@@ -1,18 +1,11 @@
 # PyBer Analysis
 
 ## Overview of Project
-Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
 ### Purpose of Project
-In this project, I demonstrated my proficiency with various features in excel including: conditional formatting, debugging errors, VLOOKUPs, and creating interactive charts and graphs with pivot charts. To accomplish these goals, I was given a fictional situation and data set of several thousand crowdfunding projects. 
-### Background of Project
-V. Isualize has given you and Omar a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
-This new assignment consists of two technical analysis deliverables and a written report to present your results. You will submit the following:
+In this project, I demonstrated my proficiency with various features in pandas, jupytier notebook, and matplotlib including: inspecting data, creating data series and data frames, merging data sets, performing calculations, and producing publication-quality figures to tell a visual story from the data. 
 
-Deliverable 1: A ride-sharing summary DataFrame by city type
-Deliverable 2: A multiple-line chart of total fares for each city type
-Deliverable 3: A written report for the PyBer analysis (README.md)
+### Background of Project
+Pyber, a ride-sharing app company, is tyring to improve access to ride-sharing services and determine affordability for underserved neighborhoods. To provide recommendations to the CEO for addressing any disparities among the city types, a line graph was created to showcase the relationship between the type of city, number of riders and drivers, as well as the percentage of total fares. First, I created a summary DataFrame of the ride-sharing data by city type using Python and Pandas. Then, I created a multiple-line chart that shows the total weekly fares for each city type using Pandas and Matplotlib. Finally, I summarized how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ---
 ## Results 
