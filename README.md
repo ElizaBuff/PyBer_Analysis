@@ -37,5 +37,7 @@ The disparities among the city types are apparent when comparing average fare pe
  * How many rides does the average driver complete in day?
 * If average fare for rural riders and drivers should be higher, what is the appropriate proportion compared to urban cities?
 
-More information is needed to move forward. Before deciding to increase or decrease rates in any of the city types, Pyber should gather information about the average length of a ride in minutes. This would allow Pyber to make a more equitable decision when comparing the average fare per driver. After that analysis, if Pyber determines a fare adjustment is necessary, the next step will be to determine how an increased or decreased fare will affect supply and demand and ultimately Pyber's overall profit. 
+More information is needed to move forward. Before deciding to increase or decrease rates in any of the city types, Pyber should gather information about the average length of a ride in minutes. This would allow Pyber to make a more equitable decision when comparing the average fare per driver. After that analysis:
+* If Pyber determines a fare adjustment is necessary, the next step will be to determine how an increased or decreased fare will affect supply and demand and ultimately Pyber's overall profit. 
+* If Pyber determines a fare adjustment is not necessary, the next step will be to equalize 140% increased rural fare for riders compared to the 300% increased rural fare per driver.  
 
