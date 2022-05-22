@@ -14,16 +14,18 @@ There are many differences in ride-sharing data among the different city types. 
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
 
-Predictably, urban cities account for a greatest number of riders, number of drivers, and total fare. Suburban cities account for the second most and rural cities account for the lowest across the three categories. However, these trends are reversed when comparing average fare per rider and average fare per driver by city type. These results are shown in the table below. 
+Diving deeper, the data in the table below uncovers the disparities amoung the city types. Predictably, urban cities account for a greatest number of riders, number of drivers, and total fare. Suburban cities account for the second most and rural cities account for the lowest across the three categories. However, these trends are reversed when comparing average fare per rider and average fare per driver by city type. 
 
 **Average Fare Per Rider**
+* Rural riders are paying the highest fares 
 * The differene between rural (highest) and suburban (lowest) cities is $10.09
 * The average rural driver rider pays about 1.4 times the amount of an urban rider 
 
 **Average Fare Per Driver**
+* Rural drivers are earning the highest fares 
 * The differene between rural (highest) and suburban (lowest) cities is $38.92
 * The average rural driver earns more than 3 times the amount of an urban driver per ride 
-  * If an urban driver completes 3 rides, they would earn less than a rural driver who completes 1 
+  * In other words, if an urban driver completes 3 rides, they would earn less than a rural driver who completes 1 
 
 ![PyBer_summary_table](analysis/PyBer_summary_table.png)
 
